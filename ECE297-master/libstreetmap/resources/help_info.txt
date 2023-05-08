@@ -1,0 +1,32 @@
+
+				Welcome to FitnessFrontier (v1.1)
+----------------------------------------------------------------------------------------
+Navigation and Interface Guide
+Zoom In/Out:  Use | + |  for zoom in and | - | for out.
+Theme Setting: Click on | Dark Mode | & | Light Mode | to switch between themes.
+Guide Info: Click on | Help | to access guide information and get help with the features.
+Switch Maps: Use | Select a map | button to switch between maps.
+Mouse Click: Returns the closest intersection.
+Generate Route: Use | From | and | to | to enter your location and your destination. Click on | Search | to generate your route.
+
+
+Path Mode Guide
+Turn on | Path Mode | to generate the most direct route by simply click on the map instead of manually enter street names.
+Once the Search button turns to | Begin |, it is waiting for you to drop your start position.
+Once the Search button turns to | End |, it is waiting for you to drop desired destination.
+Note: The system will ONLY generate path with two points.
+
+
+Range Finder Guide
+Click on | Range Finder | to customize your own route.
+Once the button turns to | Finding |, you can drop as many points as you want on the map to customize your own route.
+The system will display the distance between each point you drop. The total distance will be displayed at the bottom left of the screen.
+To start over or clear the data, click the | Range Finder| button once again.
+
+
+Show Weather Guide
+Click on | Show Weather | to display the temperature and humidity of current city.
+Click on |Cancel| or |Close| to exist the feature.
+
+
+
